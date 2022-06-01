@@ -10,31 +10,6 @@
   transform: translate(-50%, -50%);
 }
 
-#settings {
-  position: absolute;
-  padding: 1.5rem;
-  top: 50%;
-  left: 50%;
-  width: 50%;
-  height: 30%;
-  transform: translate(-50%, -50%);
-  text-align: center;
-  border: 1px solid black;
-  border-radius: 10px;
-  background-color: #161616;
-  font-size: 0.8rem;
-  z-index: 2;
-}
-
-input {
-  margin-bottom: 1rem;
-  background-color: #161616;
-  text-align: center;
-  border: none;
-  border-bottom: 1px solid #ffffff;
-  margin-top: 0.2rem;
-}
-
 #submit {
   background-color: #161616;
   border: 1px solid #ffffff;
