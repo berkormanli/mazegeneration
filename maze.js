@@ -1,4 +1,3 @@
-
 // Initialize the canvas
 let maze = document.querySelector(".maze");
 let ctx = maze.getContext("2d");
@@ -218,3 +217,7 @@ class Cell {
     }
   }
 }
+
+// let newMaze = new Maze(600, 50, 50);
+// newMaze.setup();
+// newMaze.draw();
